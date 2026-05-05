@@ -1,0 +1,3 @@
+app.get('/peliculas', (req, res) => {
+  res.json(peliculas)
+})
